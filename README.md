@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek K P</h1>
-<h3 align="center">CSE Student From NITC, DJANGO Developer</h3>
+<h3 align="center">CSE Student From NITC</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
