@@ -1,4 +1,4 @@
-## Hi
+## Hi 👋
 ### Connect With me
 <p align="left">
 <a href="https://www.linkedin.com/in/kpvivek/" target="blank">
